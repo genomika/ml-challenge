@@ -1,14 +1,14 @@
 # I Desafio Genomika de Machine Learning
 
-#O problema
+##O problema
 
-#Os dados
+##Os dados
 
-#Avaliação
+##Avaliação
 
-#Prazos
+##Prazos
 
-#Prêmio
+##Prêmio
 
-#Quem é a Genomika Diagnósticos ?
+##Quem é a Genomika Diagnósticos ?
 
