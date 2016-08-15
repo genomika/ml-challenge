@@ -14,9 +14,14 @@ Os alunos aproveitarão para poder aprender mais sobre a biologia humana aplicad
 
 ##Avaliação
 
+ a) a apresentado a solução em cima de nossa base de testes com melhor resultado baseado na curva ROC e  b) Avaliação do professor em conjunto com nosso time técnico sobre a escolha do modelo e apresentação dos resultados obtidos. A nota final composta por estes críterios será ordenada em um ranking.
+
 ##Prazos
 
+
 ##Prêmio
+
+Para o time/equipe tiver a maior nota final considerando os quesitos técnicos apresentados no tópico Avaliação terá a oportunidade de realizar uma visita em nosso laboratório técnico e conhecer toda nossa bioinformática de perto e ver como um exame genético é realizado (agendado com monitoria do professor e responsável do laboratório).
 
 ##Quem é a Genomika Diagnósticos ?
 
